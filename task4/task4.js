@@ -10,5 +10,4 @@ const capitalize = (string) =>{
     }
     return capitalized.toUpperCase() + lowerCases;
 }
-// console.log(capitalize('salom'));
 module.exports = capitalize
